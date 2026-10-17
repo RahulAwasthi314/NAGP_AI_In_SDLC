@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "+wYMUKW8kKE=",
+  "success": true,
+  "projectFilePath": "C:\\Data\\NAGP_AI_In_SDLC\\InvoiceApprovalAssignment\\InvoiceApprovalBackend\\InvoiceApprovalBackend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rahulawasthi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0-preview.5.25277.114\\microsoft.aspnetcore.openapi.10.0.0-preview.5.25277.114.nupkg.sha512",
+    "C:\\Users\\rahulawasthi\\.nuget\\packages\\microsoft.openapi\\2.0.0-preview.18\\microsoft.openapi.2.0.0-preview.18.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0-preview.18 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\Data\\NAGP_AI_In_SDLC\\InvoiceApprovalAssignment\\InvoiceApprovalBackend\\InvoiceApprovalBackend.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Data\\NAGP_AI_In_SDLC\\InvoiceApprovalAssignment\\InvoiceApprovalBackend\\InvoiceApprovalBackend.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
