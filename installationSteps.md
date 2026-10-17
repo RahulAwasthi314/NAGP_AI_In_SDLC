@@ -6,3 +6,5 @@
 `dotnet new webapi -n InvoiceApprovalBackend`
 
 `npm create vite`
+
+`specify init --here` in the existing root of project
